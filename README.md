@@ -109,6 +109,12 @@ HTML/CSS/JS + third-party REST API.
 
 ---
 
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/rishabh6116/rishabh6116/output/snake.svg" width="100%" alt="GitHub contribution snake" />
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
