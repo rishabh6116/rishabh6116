@@ -13,11 +13,11 @@
   </text>
 
   <text x="50" y="130" font-family="Segoe UI, Verdana, sans-serif" font-size="20" fill="#a5b4fc">
-    Full-Stack Developer (MERN) · CS Undergrad
+    Full-Stack Developer (MERN) · CS Undergraduate
   </text>
 
   <rect x="50" y="150" width="0" height="3" fill="#818cf8">
-    <animate attributeName="width" from="0" to="440" dur="1.4s" fill="freeze" begin="0.3s"/>
+    <animate attributeName="width" from="0" to="480" dur="1.4s" fill="freeze" begin="0.3s"/>
   </rect>
 
   <text x="850" y="180" text-anchor="end" font-family="Segoe UI, Verdana, sans-serif" font-size="14" fill="#94a3b8">
