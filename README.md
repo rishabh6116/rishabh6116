@@ -143,7 +143,3 @@ HTML/CSS/JS + third-party REST API.
 <a href="https://www.linkedin.com/in/rishabh6116/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:rishabhsingh6116@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4B71?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/rishabh6116"><img src="https://img.shields.io/badge/GitHub-12121B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
-<br/>
-
-> *Turning ideas into deployed, working code — one project at a time.*
