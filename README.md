@@ -24,18 +24,9 @@
 
 ### Hi, I'm Rishabh 👋
 
-I'm a **Computer Science undergraduate** (B.Tech, PSIT Kanpur) and **full-stack developer** who builds and ships production web apps on the **MERN stack** — React, Node.js, Express, and MongoDB. I like taking a project from a blank repo all the way to a deployed, working link.
+a **Computer Science undergraduate** (B.Tech, PSIT Kanpur) and **full-stack developer** who builds and ships production web apps on the **MERN stack** — React, Node.js, Express, and MongoDB. I like taking a project from a blank repo all the way to a deployed, working link.
 
 Strong foundation in **DSA, OOP, DBMS, and Operating Systems** — with 200+ problems solved on LeetCode & HackerRank to back it up.
-
----
-
-## 💼 Experience
-
-**Web Development Intern — The Developers Arena** *(May 2026 – Jun 2026, Remote)*
-- Built a MongoDB-based e-commerce platform with secure auth & session management
-- Built a live weather app integrating a third-party REST API
-- Designed and deployed a fully responsive personal portfolio site
 
 ---
 
@@ -125,14 +116,6 @@ HTML/CSS/JS + third-party REST API.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh6116&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages" height="165" />
 </p>
-
----
-
-## 🏆 Certifications
-
-- HTML, CSS, and Python Certification — Infosys Springboard
-- Artificial Intelligence Certification — Oracle
-- 200+ DSA problems solved on LeetCode & HackerRank
 
 ---
 
